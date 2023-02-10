@@ -1,5 +1,5 @@
 from turtle import *
-color('pink', 'green')
+color('pink', 'red')
 begin_fill()
 while True:
     forward(200)
